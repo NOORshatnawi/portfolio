@@ -1,3 +1,4 @@
 # portfolio
 https://noorshatnawi.github.io/portfolio/
-![screeeen](https://user-images.githubusercontent.com/108795086/182005171-a0cb8228-6a2d-4a83-bde7-46bab81b427f.png)
+![PHOTO-2022-08-03-23-55-53 (1)](https://user-images.githubusercontent.com/108795086/182710407-7aa3e317-2766-4f62-90cf-07afc7a8f5c5.jpg)
+
